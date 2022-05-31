@@ -3,12 +3,6 @@
 <!-- toc -->
 
 - [Node.js sample app on OpenShift!](#nodejs-sample-app-on-openshift)
-  * [OpenShift Origin v3 setup](#openshift-origin-v3-setup)
-    + [Running a virtual machine with Vagrant](#running-a-virtual-machine-with-vagrant)
-    + [Running a virtual machine managed by minishift](#running-a-virtual-machine-managed-by-minishift)
-    + [Starting a Docker container](#starting-a-docker-container)
-    + [Downloading the Binary](#downloading-the-binary)
-    + [Running an Ansible playbook](#running-an-ansible-playbook)
   * [Creating a project](#creating-a-project)
   * [Creating new apps](#creating-new-apps)
     + [Create a new app from source code (method 1)](#create-a-new-app-from-source-code-method-1)
